@@ -20,7 +20,7 @@ A Python application that demonstrates multi-turn conversations with Google's Ge
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/satyamkumarjha2002/gemini-multi-turn-chat>
 cd gemini-multi-turn-chat
 ```
 
@@ -73,16 +73,3 @@ The application includes comprehensive error handling for:
 - API configuration issues
 - Response generation failures
 - Invalid user inputs
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Google Gemini API for providing the AI capabilities
-- Python community for the excellent libraries used in this project
